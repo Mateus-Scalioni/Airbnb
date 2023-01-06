@@ -2,8 +2,6 @@
 
 ## Esse notebook tem como objetivos apresentar as seguintes análises	 
 
-O dataset Airbnb está disponível no [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/code) e possui as seguintes características:
-
 1. Qual o valor médio do aluguel na cidade de Nova York?
 2. Quais os nomes das regiões que existem na cidade de Nova York?
 3. Qual o valor do aluguel diário mais caro da cidade de Nova York?
@@ -15,6 +13,8 @@ O dataset Airbnb está disponível no [Kaggle](https://www.kaggle.com/datasets/d
 outro com poucos reviews?
 
 ## Informações técnicas 
+
+O dataset Airbnb está disponível no [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/code) e possui as seguintes características:
 
 * id - Identificador do registro na base de dados
 * name - Nome do Anúncio na plataforma do Airbnb
