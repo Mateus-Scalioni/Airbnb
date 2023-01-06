@@ -69,6 +69,8 @@ No gráfico plotado podemos analisar que existem bastante outliers, o que indica
 
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/79377636/211081152-aa6ccf8e-99a1-432a-ba2a-9b0a2b3df94b.png">
 
+Analisando o histograma plotado podemos ver que mesmo tendo algumas variações de preço temos a maior concentração de imoveis baratos.
+
 ### 8. Qual a distribuição do número de Reviews? Existem imóveis com muitos e outro com poucos reviews?
 
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/79377636/211081346-ee94e618-46a6-40a3-bd33-c579375065e9.png">
