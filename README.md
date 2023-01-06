@@ -38,11 +38,11 @@ O valor médio do aluguel é de  U$142.33
 
 ### 2. Quais os nomes das regiões que existem na cidade de Nova York?
 
-Bronx 
-Brooklyn 
-Manhattan
-Queens
-Staten Island
+* Bronx 
+* Brooklyn 
+* Manhattan
+* Queens
+* Staten Island
 
 ### 3. Qual o valor do aluguel diário mais caro da cidade de Nova York?
 
@@ -60,7 +60,8 @@ Existem 30232 usuários (Hosts) únicos cadastrados
 
 Para analisar a variação dos preços utilizaremos o boxplot, ferramenta gráfica que permite visualizar a distribuição e outliers dos dados.
 
-![image](https://user-images.githubusercontent.com/79377636/211079077-6277aabe-926e-488b-bdeb-2702119c3c45.png)
+<img src ="https://user-images.githubusercontent.com/79377636/211086374-d37a896c-2556-43f6-9e25-b17f9114330b.png"
+     height = "350px"/>
 
 No gráfico plotado podemos analisar que existem bastante outliers, o que indica valores discrepantes. Isso indica que existem imóveis com preços muito afastados do centro de distribuição, afastados da média e da variância. 
 
